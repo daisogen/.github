@@ -1,4 +1,4 @@
-Daisōgen is an flat operating system: all processes run in kernel mode, or ring 0, with full permissions. This makes it easy and fun to work with,
+Daisōgen is an flat operating system: all processes run in kernel mode, or ring 0, with full permissions. _One Page Table to rule them all_. This makes it easy and fun to work with,
 following the line of what LoseThos was meant to become. Any process can substitute another or MITM its functions to extend the functionality of
 the system as a whole, or make it more efficient. Daisōgen is, thus, an empty canvas on which to draw cool stuff.
 
