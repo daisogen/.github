@@ -1,5 +1,5 @@
 Daisōgen is an flat operating system: all processes run in kernel mode, or ring 0, with full permissions. This makes it easy and fun to work with,
-following the line of what LoseThos was supposed to become. Any process can substitute another or MITM its functions to extend the functionality of
+following the line of what LoseThos was meant to become. Any process can substitute another or MITM its functions to extend the functionality of
 the system as a whole, or make it more efficient. Daisōgen is, thus, an empty canvas on which to draw cool stuff.
 
 This is my second operating system project; the previous one was [Strife](https://github.com/the-strife-project), which was mostly based on security.
