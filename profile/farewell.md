@@ -8,3 +8,5 @@ For this reason, as of today, I'm forever abandoning Daisogen and, by extension,
 **A word of caution** for those interested in getting into osdev: this is the most expansive and challenging area of CS. Most other areas are contained in this one: algorithms, data structures, concurrency, compilers, CPU architecture, and even computer graphics. Attaining a level of comprehension about computing sufficient to embark on kernel development demands hundreds of hours. If you aren't already fluent in assembly, consider spending your time on some other project that will be more useful to you. If you still want to get into it, welcome to the path to omniscience! Start at the [osdev wiki](https://wiki.osdev.org) but **do not** believe all the advice it gives. There is no up to date alternative to the wiki, so, by far, the best place to go is the [osdev Discord server](https://discord.gg/RnCtsqD), a great chat in which I have made plenty of friends.
 
 Thanks for reading.
+
+P.S.: if you want to check out what I'm up to, have a look at [my blog](https://jlxip.net/blog).
