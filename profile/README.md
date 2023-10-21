@@ -1,3 +1,7 @@
+Daisogen has been abandoned. Read [the farewell](https://github.com/daisogen/.github/blob/master/profile/farewell.md).
+
+---
+
 Daisōgen (or Daisogen) is a metaoperating system: a very reduced set of programs that can be combined with others, at will, to build a functional operating system.
 The most important programs are [the distribution builder](https://github.com/daisogen/Daisogen), and [the kernel](https://github.com/daisogen/kernel).
 The first is what helps you build a working iso file in a way that's easy to understand.
